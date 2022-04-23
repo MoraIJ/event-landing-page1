@@ -1,13 +1,13 @@
 
 
-.navBarLinks /*.container-fluid*/ {
-    display: flex;
-    align-content:flex-end;
-    border: dotted;
-}
+
 
 .heroTop {
     border: dotted;
     text-align: center;
     height: 55%;
+}
+
+.nav-link {
+    color: black;
 }
