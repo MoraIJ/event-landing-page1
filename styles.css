@@ -32,3 +32,19 @@
     color: white;
     border: solid;
 }
+
+.theSpeakers {
+    text-align: center;
+    /*border: dotted;*/
+    margin-top: 55px;
+    margin-left: 23%;
+    padding-top: 5px;
+    width: 60%;
+}
+
+.theTeam {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
