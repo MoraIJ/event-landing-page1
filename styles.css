@@ -46,5 +46,42 @@
     margin-top: 40px;
     display: flex;
     justify-content: space-around;
-    gap: 30px;
+    gap: 20px;
+}
+
+.tickets {
+    text-align: center;
+    margin-top: 55px;
+}
+
+.ticketBenefits {
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.btnBuy {
+    color: black;
+    margin-bottom: 50px;
+}
+
+.aboveEmbededMap {
+    margin-left: 20px;
+    width: 44%;
+    height: 40%;
+    margin-bottom: 500px;
+}
+
+.venue {
+    border: dotted;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.directions {
+    text-align: left;
+}
+
+.mapsImg {
+    float: inline-end;
 }
